@@ -25,7 +25,7 @@ Compilador de C++11 ou posterior
 No terminal, clone o projeto: 
 
 ```
-$ git clone https://github.com/Xgamer4515/Super-Trunfo-Carros
+$ git clone https://github.com/Xgamer4515/Super-Trunfo
 ```
 
 Entre no diretório do Gerador: 
